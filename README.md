@@ -1,2 +1,1 @@
-# direccion360
-formación liderazgo estratrégico
+Here are all the generated files.
